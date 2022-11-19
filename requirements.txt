@@ -14,7 +14,7 @@ colorama==0.3.7
 colorzero==1.1
 configparser==3.5.0b2
 cookies==2.2.1
-cryptography==2.6.1
+cryptography==3.2
 drumhat==0.1.0
 entrypoints==0.3
 enum34==1.1.6
@@ -42,7 +42,7 @@ microdotphat==0.2.1
 mock==2.0.0
 mote==0.0.4
 motephat==0.0.2
-numpy==1.16.3
+numpy==1.22.2
 oauthlib==3.1.0
 olefile==0.46
 pantilthat==0.0.7
@@ -53,7 +53,7 @@ picamera==1.13
 picraft==1.0
 piglow==1.2.4
 pigpio==1.44
-Pillow==8.1.0
+Pillow==9.2.0
 pyasn1==0.4.7
 pyasn1-modules==0.2.7
 pycairo==1.16.2
@@ -88,5 +88,5 @@ touchphat==0.0.1
 twython==3.7.0
 unicornhathd==0.0.4
 uritemplate==3.0.0
-urllib3==1.25.9
+urllib3==1.26.5
 Werkzeug==0.15.3
